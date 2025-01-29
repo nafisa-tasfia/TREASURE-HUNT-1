@@ -1,13 +1,13 @@
 # PROJECT NAME: TREASURE-HUNT-1
+GAME TITLE: The Treasure Hunt
 
-Game Overview: The Treasure Hunt
-Game Title: The Treasure Hunt
-Developers: Mim Nur, Nafisa Tasfia, Oishee Chowdhury, Richi Hasnin, Prashed Barua
-Genre: Adventure, Strategy
-Platform: Console/Terminal-based
-Objective: Navigate a hidden grid to collect treasures while avoiding traps and using power-ups to maximize your score.
+DEVELOPERS: Nafisa Tasfia, Mim nur, Oishee Chowdhury, Richi Hasnin, Prashed Barua
+GENERE: Adventure, Strategy
+PLATFORM: Console/Terminal-based
+OBJECTIVE: Navigate a hidden grid to collect treasures while avoiding traps and using power-ups to maximize your score.
 
-The treasure hunt is an interactive grid-based strategy game designed to challenge  players decision making and resource management skills. where players navigate a concealed 5x5 grid in search of hidden treasures. The game’s primary objective is to collect all the treasures scattered across the grid while managing limited resources, including health points, moves, and a strict 60-second timer. Players must carefully plan each move, balancing the need to uncover treasures with the risks of encountering traps and using power-ups to extend gameplay.
+GAME DETAILS:
+The treasure hunt is an interactive grid-based strategy game designed to challenge  players decision making and resource management skills. where players navigate a concealed "5x5" grid in search of hidden treasures(T). The game’s primary objective is to collect all the treasures scattered across the grid while managing limited resources, including health points, moves(20), and a strict 60-second timer. Players must carefully plan each move, balancing the need to uncover treasures with the risks of encountering traps(X)and using power-ups to extend gameplay.
 
 The grid remains hidden at the start, with unexplored cells marked as ?. As players move using directional inputs (W, A, S, D), the grid gradually reveals its contents. Each cell may contain treasures, traps, power-ups, or empty spaces. Treasures (T) reward 10 points and contribute to the main objective, while traps (X) reduce the player’s health by one point. Power-ups (+) grant an additional three moves, offering a lifeline when moves are running low. Empty cells are neutral and safe to explore.
 

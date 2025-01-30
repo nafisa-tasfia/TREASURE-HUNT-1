@@ -8,6 +8,8 @@ OBJECTIVE: Navigate a hidden grid to collect treasures while avoiding traps and 
 
 GAME DETAILS:
 The treasure hunt is an interactive grid-based strategy game designed to challenge  players(P) decision making and resource management skills. where players navigate a concealed "5x5" grid in search of hidden treasures(T). The game’s primary objective is to collect all the treasures scattered across the grid while managing limited resources, including health points, moves(20), and a strict 60-second timer. Players must carefully plan each move, balancing the need to uncover treasures with the risks of encountering traps(X)and using power-ups to extend gameplay.
+Treasures (T): +10 points for each treasure collected. Traps (X): -1 health when stepped on.
+Power-ups (+): +3 moves when picked up.
 Timer: Ends the game if the player exceeds the 60-second limit.
 
 HOW TO PLAY:
